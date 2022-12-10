@@ -23,7 +23,7 @@ $ npm i
 
 4. Prepare project
 ```console
-$ npm prepare
+$ npm run prepare
 ```
 
 5. Replace all `{{PROJECT_NAME}}` with your project name.
